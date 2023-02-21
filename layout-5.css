@@ -32,6 +32,15 @@
 
     
 }
+.orange_box {
+    background-color: orangered;
+    opacity: 0.5;
+    position: relative;
+    bottom: 1481px;
+    left: 49PX;
+    height: 800px;
+    width: 52%;
+}
 
 .TREND
 {
