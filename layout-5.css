@@ -1,17 +1,17 @@
  #bodycontainer
  {
-  background-color: black;
+  background-color:black;
  }
 .HLINE {
   width: 100%;
   background-color: white;
   height: 20px;
   position: relative;
-  top: 50px;
+  top: 35px;
 }
 .HLINE2 {
-  width: 20%;
-  margin-left: 20px;
+  width: 15%;
+  margin-left: 40px;
   background-color: cornsilk;
   height: 20px;
   position: relative;
@@ -20,6 +20,7 @@
 #bi
 {
   font-size: 100px;
+    margin-left: 80px;
 }
 #laptop {
   width: 90%;
@@ -50,7 +51,7 @@
   opacity: 0.5;
   position: relative;
   top: 50px;
-  width: 40%;
+  width: 50%;
   padding-left: 35px;
   height: 270px;
 
