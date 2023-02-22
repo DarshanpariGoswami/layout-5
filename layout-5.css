@@ -1,7 +1,38 @@
  #bodycontainer
  {
   background-color:black;
- }
+}
+#lapwork
+{
+  width: 85%;
+  margin-left: 150px;
+  height: auto;
+  background-repeat: no-repeat;
+}
+.rowdiv
+{position: relative;
+  bottom: 630px;
+}
+.orangebox
+{
+  background-color: orange;
+  opacity: 0.5;
+  width: 40%;
+  height: 918px;
+  position: relative;
+  top: 1817px;
+  left: 350px;
+}
+.greenbox
+{
+background-color: green;
+  opacity: 0.5;
+  width: 35%;
+  height: 900px;
+  position: relative;
+  top: 1570px;
+  left: 820px;
+}
 .HLINE {
   width: 100%;
   background-color: white;
