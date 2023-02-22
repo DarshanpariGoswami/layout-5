@@ -1,0 +1,93 @@
+ #bodycontainer
+ {
+  background-color:black;
+}
+#lapwork
+{
+  width: 85%;
+  margin-left: 150px;
+  height: auto;
+  background-repeat: no-repeat;
+}
+.rowdiv
+{position: relative;
+  bottom: 630px;
+}
+.orangebox
+{
+  background-color: orange;
+  opacity: 0.5;
+  width: 40%;
+  height: 918px;
+  position: relative;
+  top: 1817px;
+  left: 350px;
+}
+h1{
+
+  color: white;
+}
+.greenbox
+{
+background-color: cyan;
+  opacity: 0.4;
+  width: 35%;
+  height: 900px;
+  position: relative;
+  top: 1570px;
+  left: 820px;
+}
+.HLINE {
+  width: 100%;
+  background-color: white;
+  height: 20px;
+  position: relative;
+  top: 35px;
+}
+.HLINE2 {
+  width: 15%;
+  margin-left: 40px;
+  background-color: cornsilk;
+  height: 20px;
+  position: relative;
+  top: 80px;
+}
+#bi
+{
+  font-size: 100px;
+    margin-left: 80px;
+}
+#laptop {
+  width: 90%;
+  color: blue;
+   align-items: right;
+  height: 600px;
+}
+..blackvline {
+  background-color: black;
+  opacity: 0.5;
+  height: 601px;
+  width: 200px;
+  position: relative;
+  bottom: 600px;
+}
+.orange_box {
+  background-color: orangered;
+  opacity: 0.5;
+  position: relative;
+  bottom: 1481px;
+  left: 49px;
+  height: 800px;
+  width: 52%;
+}
+
+.TREND {
+  background-color: orangered;
+  opacity: 0.5;
+  position: relative;
+  top: 50px;
+  width: 50%;
+  padding-left: 35px;
+  height: 270px;
+
+}
