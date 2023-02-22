@@ -1,3 +1,7 @@
+ #bodycontainer
+ {
+  background-color: black;
+ }
 .HLINE {
   width: 100%;
   background-color: white;
@@ -17,13 +21,13 @@
 {
   font-size: 100px;
 }
-.imagediv {
-  background-image: url("C:/internship/layout-5/laptopwork.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+#laptop {
+  width: 90%;
+  color: blue;
+   align-items: right;
   height: 600px;
 }
-.blackvline {
+..blackvline {
   background-color: black;
   opacity: 0.5;
   height: 601px;
@@ -44,10 +48,10 @@
 .TREND {
   background-color: orangered;
   opacity: 0.5;
-  width: 8%;
-  padding-left: 35px;
-  height: 280px;
   position: relative;
-  bottom: 1000px;
-  left: 1000px;
+  top: 50px;
+  width: 40%;
+  padding-left: 35px;
+  height: 270px;
+
 }
